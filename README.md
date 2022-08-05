@@ -1,4 +1,4 @@
-#BLE Macro Keyboard
+# BLE Macro Keyboard
 
 ### About this project
 
